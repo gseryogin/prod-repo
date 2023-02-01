@@ -1,0 +1,3 @@
+requirements:
+  - class: DockerRequirement
+    dockerPull: 028257207274.dkr.ecr.us-east-1.amazonaws.com/snapshots/ldt/nirvana:1.2
